@@ -1,5 +1,5 @@
-# probe
-Probe is a Go web app with an HTMX-enhanced UI for interacting with Kubernetes clusters and performing network diagnostics.
+# kshot
+kshot is a Go web app with an HTMX-enhanced UI for interacting with Kubernetes clusters.
 
 
 ## live reload
